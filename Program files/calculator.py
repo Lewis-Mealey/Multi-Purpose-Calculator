@@ -2,7 +2,7 @@ from tkinter import *
 import math
 
 calc = Tk()
-calc.title("Simple Calculator")
+calc.title("Simple Calculator!")
 operator=""
 userinput=StringVar()
 
